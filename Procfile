@@ -1,1 +1,1 @@
-web: gunicorn helloapp.wsgi --log-file –
+web: gunicorn DjangoRestApiMongoDB.wsgi --log-file –
